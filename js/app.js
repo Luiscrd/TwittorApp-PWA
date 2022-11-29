@@ -1,4 +1,5 @@
-
+var url = window.location.href;
+var sWlocation = '/TwittorApp-PWA/sw.js'
 // Referencias de jQuery
 
 var titulo      = $('#titulo');
