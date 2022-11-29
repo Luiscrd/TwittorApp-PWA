@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Quasar" src="https://ih1.redbubble.net/image.981239610.4960/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width="450">
+  <img alt="Quasar" src="https://d33wubrfki0l68.cloudfront.net/a48a70f6f10da6f0d8985319e460069f8140c150/603a1/images/2018/pwa/pwa-logo.png" width="550">
 </p>
 
 # Chat de Héroes
